@@ -1,5 +1,5 @@
 #Merge Sort
-'''
+```
 #include <cstdio>
 #include <iostream>
 #include <algorithm>
@@ -35,4 +35,4 @@ int main()
     printf("\n");
     return 0;
 }
-'''
+```
