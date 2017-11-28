@@ -1,4 +1,4 @@
-#Merge Sort
+# Merge Sort
 ```
 #include <cstdio>
 #include <iostream>
@@ -7,7 +7,7 @@
 #define N 500000
 #define M 1000000
 using namespace std;
-int sort[N],unsort[N],in,arr[N];
+int unsort[N],in,arr[N];
 void mergesort(int st,int l)
 {
     int a=l/2;
@@ -36,3 +36,4 @@ int main()
     return 0;
 }
 ```
+***edit on 2017/11/28***
